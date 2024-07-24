@@ -1,3 +1,8 @@
 ep 1
 Dialogue: 8,0:08:55.16,0:08:58.25,Alya,,0,0,0,,{\an8}Trochę się spóźniliśmy, są jeszcze jakieś wolne miejsca? -> spóźniłyśmy
 Dialogue: 8,0:21:44.90,0:21:48.97,Alya,,0,0,0,,Trzymałabym się lepiej, gdybyś nie gonił przez całą szkołę. -> brakuje "mnie"
+
+ep 2
+Dialogue: 8,0:04:17.62,0:04:18.60,Alya,,0,0,0,,To ciekawe, -> następne zdanie jest dużą literą, więc albo kropka tutaj, albo zacząć je małą
+Dialogue: 8,0:05:17.93,0:05:21.88,Alya,,0,0,0,,Jeśli mam szczery, będzie to miało\N ogromny wpływ na twoją rekomendację. -> mam być
+Dialogue: 8,0:08:45.69,0:08:48.94,Alya,,0,0,0,,Przestał był dobry jakieś parę sekund temu. -> być
