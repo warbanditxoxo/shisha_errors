@@ -1,0 +1,3 @@
+ep 1
+Dialogue: 0,0:01:59.89,0:02:02.14,Jeleń - OP,,0,0,0,,{\blur2\fad(200,200)}Chyba opuściłam parę dni mewigu -> mewingu
+Dialogue: 8,0:13:30.30,0:13:32.35,Jeleń,,0,0,0,,Co tym masz w tej głowie? -> ty
