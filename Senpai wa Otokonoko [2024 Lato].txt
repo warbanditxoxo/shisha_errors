@@ -1,0 +1,2 @@
+ep 1
+Dialogue: 8,0:19:03.29,0:19:06.09,Senpai - Myśli,,0,0,0,,Zastanawiam się, co właściwe we mnie widzi... -> właściwie
