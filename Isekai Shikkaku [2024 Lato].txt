@@ -1,0 +1,2 @@
+ep 1
+Dialogue: 8,0:13:24.15,0:13:27.38,Samobójca,,0,0,0,,Czy mogę napisać o sobie powieść? -> tobie
