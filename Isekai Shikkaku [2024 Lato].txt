@@ -1,2 +1,3 @@
 ep 1
+Dialogue: 8,0:12:23.25,0:12:25.77,Samobójca - Alter,,0,0,0,,{\an8}Zdobyto pięć punkt doświadczenia. -> punktów
 Dialogue: 8,0:13:24.15,0:13:27.38,Samobójca,,0,0,0,,Czy mogę napisać o sobie powieść? -> tobie
