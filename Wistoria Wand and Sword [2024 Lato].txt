@@ -1,0 +1,4 @@
+ep 1
+Dialogue: 8,0:11:11.57,0:11:15.26,Wistoria,,0,0,0,,Słyszałem, że na ostatnim egzaminie\N zabrakło ci kilku punków. -> punktów
+Dialogue: 8,0:13:31.58,0:13:34.03,Wistoria,,0,0,0,,Właśnie, inni powinni buty ci sczyścić! -> czyścić
+Dialogue: 8,0:13:57.27,0:14:00.31,Wistoria,,0,0,0,,Naszym celem jest Baskerville. -> są
