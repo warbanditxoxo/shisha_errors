@@ -1,3 +1,7 @@
 ep 1
 Dialogue: 8,0:12:23.25,0:12:25.77,Samobójca - Alter,,0,0,0,,{\an8}Zdobyto pięć punkt doświadczenia. -> punktów
 Dialogue: 8,0:13:24.15,0:13:27.38,Samobójca,,0,0,0,,Czy mogę napisać o sobie powieść? -> tobie
+
+ep 3
+Dialogue: 8,0:13:24.31,0:13:28.04,Samobójca,,0,0,0,,Masz przestań z nim podróżować, Annette. -> przestać
+Dialogue: 8,0:16:15.44,0:16:18.45,Samobójca,,0,0,0,,Jeśli  Czarnego Pana już nie ma... -> podwójna spacja do poprawienia
