@@ -1,4 +1,5 @@
 ep 1
+raz maskotka mówi o sobie w męskiej formie (9:15), a raz w żeńskiej (np. w 1:42)
 Dialogue: 8,0:03:00.20,0:03:02.62,Monogatari,,0,0,0,,Smakowały ci. Masz ja nawet na policzku. -> Masz je (lody)
 Dialogue: 8,0:22:03.26,0:22:07.64,Monogatari,,0,0,0,,{\i1}Można powiedzieć, że to osobliwość \Nstworzona do walki z takimi jak ja. -> z kimś takim jak ja
 Dialogue: 8,0:26:14.29,0:26:19.43,Monogatari,,0,0,0,,{\i1}prostka wpadka z mojej strony \Nurosła do iście absurdalnych rozmiarów.{prosta} -> prosta
