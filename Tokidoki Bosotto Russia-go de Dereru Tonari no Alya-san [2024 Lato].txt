@@ -20,3 +20,6 @@ Dialogue: 8,0:14:18.73,0:14:22.79,Alya,,0,0,0,,a tamta dójka nie musi się już
 Dialogue: 8,0:15:50.45,0:15:56.10,Alya,,0,0,0,,Więc zamierzasz startować w wyborach razem ze Suou? -> z Suou
 Dialogue: 8,0:19:00.24,0:19:03.02,Alya,,0,0,0,,Jesteś pewien, że w łbie ci się\N nie poprzewracało od tego upadku? -> we łbie
 Dialogue: 8,0:19:09.21,0:19:13.54,Alya,,0,0,0,,Jak możesz mówić takie rzeczy do kogoś,\N kto za młodu uchodził za geniusza . -> zbędna spacja przed kropką
+
+ep 5
+Dialogue: 8,0:13:02.83,0:13:03.76,Alya,,0,0,0,,Niech no sprawdzę -> kropka na końcu
