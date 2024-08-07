@@ -10,3 +10,14 @@ Dialogue: 8,0:07:37.30,0:07:40.77,Wistoria,,0,0,0,,Może nie zostanie Magai Vend
 Dialogue: 8,0:18:08.60,0:18:12.90,Wistoria,,0,0,0,,Chce dotrzymać obietnicy złożonej Elfie! -> Chcę
 Dialogue: 8,0:20:45.21,0:20:49.03,Wistoria,,0,0,0,,Willu Selforcie, niniejszym przyznaje ci pięć punktów. -> przyznaję
 Dialogue: 0,0:23:01.56,0:23:05.07,Znaki,,0,0,0,,{\fad(900,0)\blur5\fnIwata Mincho Old Pro H-TR PL\fs70\pos(954,836)\c&H000000&}Obrzeża Akademi Magii -> Akademii
+
+ep 3
+Dialogue: 8,0:07:22.32,0:07:26.51,Wistoria - Myśli,,0,0,0,,Nie użył żadnej magi. Wykorzystał tylko miecz? -> magii
+
+ep 4
+Dialogue: 8,0:02:42.91,0:02:46.14,Wistoria,,0,0,0,,Zafajdany Julius...  Zamroził też nasze golemy! -> dwie spacje
+Dialogue: 8,0:11:44.18,0:11:47.88,Wistoria,,0,0,0,,Martwisz się o Lhiannę i innych? -> Lihannę
+Dialogue: 8,0:12:20.37,0:12:22.88,Wistoria - Myśli,,0,0,0,,Festiwal odbywa się tylko co dwa lata. -> tylko do wywalenia
+Dialogue: 8,0:13:45.91,0:13:48.24,Wistoria,,0,0,0,,Oto pańskie zamówienie, panie Donan. -> Donnan
+Dialogue: 8,0:15:39.03,0:15:42.99,Wistoria,,0,0,0,,Lubię pana Donana i resztę krasnoludów. -> Donnana
+Dialogue: 8,0:15:53.14,0:15:55.79,Wistoria,,0,0,0,,Szanuje ich. -> Szanuję
