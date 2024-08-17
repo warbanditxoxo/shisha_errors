@@ -7,5 +7,34 @@ Dialogue: 8,0:30:18.13,0:30:19.38,Monogatari,,0,0,0,,{\i1}Nie wyciąga nauczki. 
 
 ep 2
 Dialogue: 8,0:01:07.77,0:01:11.13,Monogatari,,0,0,0,,{\i1}Ja z tamtego okresu i ja z tamtego okresu ... -> bez spacji przed wielokropkiem
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HF3EAFF&\blur0.8\clip(147,888,1673,890)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HF3E9FF&\blur0.8\clip(147,890,1673,891)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HF2E9FF&\blur0.8\clip(147,891,1673,892)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HF2E8FE&\blur0.8\clip(147,892,1673,893)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HF1E8FE&\blur0.8\clip(147,893,1673,894)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HF1E7FE&\blur0.8\clip(147,894,1673,895)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HF1E6FE&\blur0.8\clip(147,895,1673,896)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HF0E6FE&\blur0.8\clip(147,896,1673,897)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HF0E5FE&\blur0.8\clip(147,897,1673,898)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HEFE5FE&\blur0.8\clip(147,898,1673,899)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HEFE4FD&\blur0.8\clip(147,899,1673,900)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HEEE3FD&\blur0.8\clip(147,900,1673,902)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HEDE2FD&\blur0.8\clip(147,902,1673,903)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HEDE1FD&\blur0.8\clip(147,903,1673,904)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HECE0FD&\blur0.8\clip(147,904,1673,906)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HEBDFFC&\blur0.8\clip(147,906,1673,907)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HEBDEFC&\blur0.8\clip(147,907,1673,908)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HEADDFC&\blur0.8\clip(147,908,1673,910)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HE9DCFC&\blur0.8\clip(147,910,1673,911)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HE8DBFB&\blur0.8\clip(147,911,1673,912)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HE8DAFB&\blur0.8\clip(147,912,1673,913)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HE7DAFB&\blur0.8\clip(147,913,1673,914)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HE7D9FB&\blur0.8\clip(147,914,1673,915)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HE6D8FB&\blur0.8\clip(147,915,1673,916)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HE5D7FA&\blur0.8\clip(147,916,1673,917)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HE5D6FA&\blur0.8\clip(147,917,1673,918)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HE4D5FA&\blur0.8\clip(147,918,1673,919)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HE4D4FA&\blur0.8\clip(147,919,1673,920)}Drugi odcinek martwego sezonu (w koelejności nadawania)
+Dialogue: 0,0:01:29.99,0:01:32.99,Szyszka Znaki,,0,0,0,,{\pos(960,901.3)\fs40\c&HE3D4FA&\blur0.8\clip(147,920,1673,921)}Drugi odcinek martwego sezonu (w koelejności nadawania) -> kolejności
 Dialogue: 8,0:14:40.61,0:14:44.98,Monogatari,,0,0,0,,Sama pomyśl,  jak trudno wciągnąć się w nową książkę. -> dwie spacje po przecinku
 Dialogue: 8,0:14:53.70,0:14:59.50,Monogatari,,0,0,0,,Przekonać się, ile energii drzemie w twoich\N zdolnościach artystycznych,  rysunkach, ilustracjach... -> dwie spacje przed rysunkach
