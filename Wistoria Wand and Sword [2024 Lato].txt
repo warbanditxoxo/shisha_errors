@@ -21,3 +21,6 @@ Dialogue: 8,0:12:20.37,0:12:22.88,Wistoria - Myśli,,0,0,0,,Festiwal odbywa się
 Dialogue: 8,0:13:45.91,0:13:48.24,Wistoria,,0,0,0,,Oto pańskie zamówienie, panie Donan. -> Donnan
 Dialogue: 8,0:15:39.03,0:15:42.99,Wistoria,,0,0,0,,Lubię pana Donana i resztę krasnoludów. -> Donnana
 Dialogue: 8,0:15:53.14,0:15:55.79,Wistoria,,0,0,0,,Szanuje ich. -> Szanuję
+
+ep 5
+Dialogue: 8,0:18:05.89,0:18:09.88,Wistoria - Myśli,,0,0,0,,Nie wierzę! Czyżby przewidział\N strategię moją i Collette? -> Colette
