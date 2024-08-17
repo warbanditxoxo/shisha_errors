@@ -4,3 +4,8 @@ Dialogue: 8,0:03:00.20,0:03:02.62,Monogatari,,0,0,0,,Smakowały ci. Masz ja nawe
 Dialogue: 8,0:22:03.26,0:22:07.64,Monogatari,,0,0,0,,{\i1}Można powiedzieć, że to osobliwość \Nstworzona do walki z takimi jak ja. -> z kimś takim jak ja
 Dialogue: 8,0:26:14.29,0:26:19.43,Monogatari,,0,0,0,,{\i1}prostka wpadka z mojej strony \Nurosła do iście absurdalnych rozmiarów.{prosta} -> prosta
 Dialogue: 8,0:30:18.13,0:30:19.38,Monogatari,,0,0,0,,{\i1}Nie wyciąga nauczki. -> nie powinno być coś w stylu: Nie wyciąga wniosków / Nie uczy się na błędach.
+
+ep 2
+Dialogue: 8,0:01:07.77,0:01:11.13,Monogatari,,0,0,0,,{\i1}Ja z tamtego okresu i ja z tamtego okresu ... -> bez spacji przed wielokropkiem
+Dialogue: 8,0:14:40.61,0:14:44.98,Monogatari,,0,0,0,,Sama pomyśl,  jak trudno wciągnąć się w nową książkę. -> dwie spacje po przecinku
+Dialogue: 8,0:14:53.70,0:14:59.50,Monogatari,,0,0,0,,Przekonać się, ile energii drzemie w twoich\N zdolnościach artystycznych,  rysunkach, ilustracjach... -> dwie spacje przed rysunkach
