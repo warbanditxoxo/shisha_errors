@@ -9,3 +9,6 @@ Dialogue: 8,0:16:15.44,0:16:18.45,Samobójca,,0,0,0,,Jeśli  Czarnego Pana już 
 ep 5
 Dialogue: 8,0:11:44.46,0:11:50.11,Samobójca,,0,0,0,,Spoczywający tu człowiek na pewno modli się\Nzza światów o wasze bezpieczeństwo. -> z zaświatów
 Dialogue: 8,0:19:07.44,0:19:10.70,Samobójca,,0,0,0,,Może być mnie rozwiązał?! -> byś
+
+ep 6
+Dialogue: 8,0:16:37.08,0:16:40.46,Samobójca,,0,0,0,,Spotkanie się znów w moim żołądku. -> Spotkacie
