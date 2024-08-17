@@ -3,3 +3,6 @@ Dialogue: 8,0:06:09.47,0:06:14.06,Tower of God - Myśli,,0,0,0,,Roi się tu do p
 
 ep 3
 Dialogue: 8,0:05:27.59,0:05:31.45,Tower of God - Myśli,,0,0,0,,Rozpoczynamy kolejny rest. -> test
+
+ep 6
+Dialogue: 8,0:11:39.84,0:11:42.81,Tower of God,,0,0,0,,„Viole, kim jest tak kobieta”? -> ta kobieta
