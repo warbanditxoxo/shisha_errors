@@ -1,0 +1,2 @@
+ep 3
+Dialogue: 8,0:04:17.11,0:04:20.20,Delicos,,0,0,0,,Nie ma ciebie mocnych, Dali. -> ciebie >>> na ciebie
