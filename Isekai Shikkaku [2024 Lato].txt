@@ -14,3 +14,6 @@ ep 6
 Dialogue: 8,0:04:22.56,0:04:27.34,Samobójca,,0,0,0,,Obiecuję, że będę zachowywać się.\Njak przystało na księżniczkę. -> kropka zamiast przecinka
 Dialogue: 8,0:16:37.08,0:16:40.46,Samobójca,,0,0,0,,Spotkanie się znów w moim żołądku. -> Spotkacie
 Dialogue: 8,0:18:14.12,0:18:15.91,Samobójca,,0,0,0,,Pożarł rękę mojego ojca. -> tu mówi Koujika, że przybysz pożarł rękę króla
+
+ep 7
+Dialogue: 8,0:11:20.93,0:11:26.02,Samobójca,,0,0,0,,Im więcej dowiadywałem się o twojej przyszłości, \Ntym częściej myślałem sobie... -> powinno być "przeszłości"
