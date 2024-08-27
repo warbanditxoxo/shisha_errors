@@ -28,3 +28,6 @@ Dialogue: 8,0:18:05.89,0:18:09.88,Wistoria - Myśli,,0,0,0,,Nie wierzę! Czyżby
 ep 6
 Dialogue: 8,0:10:48.11,0:10:51.65,Wistoria,,0,0,0,,Tego można było się  podziewać po elfie.\N Mistrz Wignall nie ma sobie równych! -> dwie spacje i "spodziewać"
 Dialogue: 8,0:18:31.16,0:18:33.59,Wistoria - Alter,,0,0,0,,i ruń dół w imię zagłady smoków! -> *w dół
+
+ep 7
+Dialogue: 8,0:07:08.05,0:07:12.78,Wistoria,,0,0,0,,Moje klony poruszają wedle mojej woli\Ni potrafią też rzucać zaklęcia. -> poruszają się
