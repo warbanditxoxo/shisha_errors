@@ -37,5 +37,6 @@ ep 8
 Dialogue: 8,0:07:52.82,0:07:56.66,Alya - Myśli,,0,0,0,,Nie, założę się, że Miyamame maczała w tym palce. -> Miyamae
 Dialogue: 8,0:07:56.92,0:08:02.94,Alya,,0,0,0,,Uważam, że tylko najlepsi uczniowi powinni\N mieć możliwość zasiadania w samorządzie. -> uczniowie
 Dialogue: 8,0:09:27.14,0:09:32.91,Alya,,0,0,0,,Jako przedstawiciel samorządu chciałbym przedstawić\N swoje stanowisko sprzeciwiające się tej propozycji. -> chciałabym
+Dialogue: 8,0:11:52.65,0:11:58.02,Alya,,0,0,0,,Aby zapobiec obniżeniu standardów, uważam,\N że perspektywa nauczycieli jest niezbędna. -> jakby zabrakło mi jednego słowa. Po "perspektywa" wg mnie powinno być "udziału" lub "ingerencji"
 Dialogue: 8,0:13:09.88,0:13:12.72,Alya,,0,0,0,,Świetnie się spisałaś, pozwól, że zajmę się resztą -> brak kropki na końcu + to powinny być dwa zdania
 Dialogue: 8,0:15:50.82,0:15:54.30,Alya - Myśli,,0,0,0,,Pomyślałem, że musi ich łączyć wyjątkowa więź. -> Pomyślałam
