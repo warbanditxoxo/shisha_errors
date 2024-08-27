@@ -32,3 +32,9 @@ Dialogue: 8,0:13:21.13,0:13:23.86,Alya,,0,0,0,,Ja chciałem pójść w ślady dz
 Dialogue: 8,0:16:22.65,0:16:24.59,Alya,,0,0,0,,Czym zasłużyłam sobie na taką wdzięczność? -> zasłużyłem
 Dialogue: 8,0:19:04.61,0:19:07.90,Alya,,0,0,0,,że jest siostrunia to dojrzała, pełna powagi osoba. -> jej*
 Dialogue: 8,0:23:04.82,0:23:09.62,Alya,,0,0,0,,Tacy jak wy nie zasługują na start wyborach. -> w*
+
+ep 8
+Dialogue: 8,0:07:56.92,0:08:02.94,Alya,,0,0,0,,Uważam, że tylko najlepsi uczniowi powinni\N mieć możliwość zasiadania w samorządzie. -> uczniowie
+Dialogue: 8,0:09:27.14,0:09:32.91,Alya,,0,0,0,,Jako przedstawiciel samorządu chciałbym przedstawić\N swoje stanowisko sprzeciwiające się tej propozycji. -> chciałabym
+Dialogue: 8,0:13:09.88,0:13:12.72,Alya,,0,0,0,,Świetnie się spisałaś, pozwól, że zajmę się resztą -> brak kropki na końcu + to powinny być dwa zdania
+Dialogue: 8,0:15:50.82,0:15:54.30,Alya - Myśli,,0,0,0,,Pomyślałem, że musi ich łączyć wyjątkowa więź. -> Pomyślałam
