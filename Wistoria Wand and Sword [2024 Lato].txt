@@ -40,3 +40,8 @@ Dialogue: 8,0:17:33.03,0:17:38.32,Wistoria,,0,0,0,,Aby zapobiec upadku mojej rod
 ep 9
 Dialogue: 8,0:04:59.27,0:05:04.07,Wistoria,,0,0,0,,Być może powinienem zacząć\N wątpić w twój osąd, Lianno. -> Lihanno
 Dialogue: 8,0:18:37.01,0:18:39.24,Wistoria,,0,0,0,,Wtedy chciałabym, abyś ponownie użył Wykrycia. -> chciałbym
+
+ep 10
+Dialogue: 8,0:04:41.93,0:04:46.68,Wistoria - Myśli,,0,0,0,,To nie jest przypadkiem Elleaf Canan – Elnore Ljos Alf? -> Ellenor
+Dialogue: 8,0:04:47.01,0:04:50.93,Wistoria,,0,0,0,,Dorastałem wraz z Elnore i bardzo ją ceniłem. -> Ellenor
+Dialogue: 8,0:05:19.95,0:05:24.75,Wistoria,,0,0,0,,Okazałą się być wysoką elfką na tyle potężną,\N by stworzyć królewskie lasy. -> Okazała
