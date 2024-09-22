@@ -1,0 +1,6 @@
+Dialogue: 0,0:07:53.16,0:07:59.42,Znaki,,0,0,0,,{\blur0.6\bord5.5\fnSkitser Cartoon PL\fs60\fscy120\frz358.815\c&H325357&\3c&HD7F2F5&\pos(409.738,299.256)\b1}Festyn Wschodu Słońca
+Dialogue: 1,0:07:53.16,0:07:59.42,Znaki,,0,0,0,,{\blur0.7\fnSkitser Cartoon PL\fs60\fscy120\frz358.815\c&H325357&\pos(409.738,299.256)\b1}Festyn W{\c&H1C302F&}schodu Słońca -> nie rusza się
+Dialogue: 0,0:02:34.17,0:02:40.51,Pięcioraczki Film OP,,0,0,0,fx,{\fad(150,150)\blur1\bord4.5\1a&HFE&\3a&HFE&\4a&H00&\yshad0.01\xshad0\4c&H000000&\fscy120}Uczucia o których wcześniej nie miałam pojęcia
+Dialogue: 1,0:02:34.17,0:02:40.51,Pięcioraczki Film OP,,0,0,0,fx,{\fad(150,150)\blur0.8\bord0\shad0.0001\1a&HFE&\3a&HFE&\4c&HFFFFFF&\4a&H00&\yshad0.0001\fscy120}Uczucia o których wcześniej nie miałam pojęcia -> przecinek przed "o których"
+Dialogue: 1,0:56:42.55,0:56:44.05,Znaki,,0,0,0,,{\blur1.3\fnKozuka Gothic Pr6N B PL\fs120\fscy150\c&H908265&\pos(1220.561,533.67)}Sala\N{\c&H726C58&}kółka\N{\c&H3D4C39&}tetralnego -> teatralnego
+Dialogue: 200,1:20:04.82,1:20:08.78,Pięcioraczki Film,Futaro,0,0,0,,To one mnie nauczyły, że miałam klapki na oczach. -> miałem
