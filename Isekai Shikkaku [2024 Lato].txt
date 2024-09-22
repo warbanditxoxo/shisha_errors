@@ -22,3 +22,6 @@ Dialogue: 8,0:11:20.93,0:11:26.02,Samobójca,,0,0,0,,Im więcej dowiadywałem si
 
 ep 9
 Dialogue: 8,0:11:16.44,0:11:22.66,Samobójca,,0,0,0,,Podróżuję, że stać się dzielnym wojownikiem, \Nktóry będzie zasługiwał na ten miecz. -> żeby
+
+ep 10
+Dialogue: 8,0:15:29.45,0:15:32.74,Samobójca,,0,0,0,,Znów się spotkamy, mistrzu. -> spotykamy
