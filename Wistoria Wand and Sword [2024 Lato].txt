@@ -31,3 +31,8 @@ Dialogue: 8,0:18:31.16,0:18:33.59,Wistoria - Alter,,0,0,0,,i ruń dół w imię 
 
 ep 7
 Dialogue: 8,0:07:08.05,0:07:12.78,Wistoria,,0,0,0,,Moje klony poruszają wedle mojej woli\Ni potrafią też rzucać zaklęcia. -> poruszają się
+
+ep 8
+4:30 - brak TSu
+Dialogue: 8,0:15:55.58,0:15:59.02,Wistoria,,0,0,0,,Czyżby zwiódł cie swoimi akrobacjami? -> cię
+Dialogue: 8,0:17:33.03,0:17:38.32,Wistoria,,0,0,0,,Aby zapobiec upadku mojej rodziny,\N muszę osiągnąć znaczące sukcesy. -> upadkowi
