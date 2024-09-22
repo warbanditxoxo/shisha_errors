@@ -4,3 +4,6 @@ Dialogue: 8,0:12:31.36,0:12:34.27,Delicos,,0,0,0,,Kiedyś wkroczysz w fazę koko
 
 ep 4
 Dialogue: 8,0:12:12.71,0:12:16.59,Delicos,,0,0,0,,Nie możesz stosować przemocy słownej ani werbalnej. -> fizycznej ani werbalnej
+
+ep 6
+Dialogue: 8,0:10:12.81,0:10:17.04,Delicos,,0,0,0,,Wtedy musisz zatrzymać Rafela! -> Rafaela
