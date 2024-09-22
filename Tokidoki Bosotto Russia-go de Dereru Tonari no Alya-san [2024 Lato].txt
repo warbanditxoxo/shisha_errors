@@ -55,5 +55,7 @@ ep 11
 Dialogue: 8,0:08:21.25,0:08:22.39,Alya,,0,0,0,,Daj se siania! -> siana
 
 ep 12
+Dialogue: 8,0:14:51.39,0:14:55.38,Alya,,0,0,0,,Robię to, gdyż wierzę, że ludzie nigdy\N nie powinny spoczywać na laurach, -> nie powinni
 Dialogue: 8,0:16:03.46,0:16:07.26,Alya,,0,0,0,,Więc proszę wasz, żebyście do tego czasu \Nuważnie mnie obserwowali. -> was
 Dialogue: 8,0:19:27.38,0:19:33.23,Alya,,0,0,0,,Żeby urzeczywistnić ten niezwykły \Nsamorząd uczniowski, proszę o was o wsparcie. -> na końcu zdania jest o jedno "o" za dużo
+Dialogue: 8,0:20:35.18,0:20:38.36,Alya,,0,0,0,,Gdybym moja przemowa była choć odrobinę lepsza... -> gdyby
