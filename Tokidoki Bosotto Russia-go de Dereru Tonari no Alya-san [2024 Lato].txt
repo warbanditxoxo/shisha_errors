@@ -50,3 +50,6 @@ Dialogue: 8,0:03:35.68,0:03:38.86,Alya,,0,0,0,,Mierzymy wysoko, co? Ale nich bę
 Dialogue: 8,0:10:51.06,0:10:55.76,Alya,,0,0,0,,To oznacz, że niektórzy kandydaci mogą\N spotkać się z grobową ciszą. -> oznacza
 Dialogue: 8,0:18:35.24,0:18:37.72,Alya,,0,0,0,,Nareszcie jesteście sami. -> jesteśmy
 Dialogue: 8,0:20:38.25,0:20:40.35,Alya,,0,0,0,,Dobry chłopka z ciebie. -> chłopak
+
+ep 11
+Dialogue: 8,0:08:21.25,0:08:22.39,Alya,,0,0,0,,Daj se siania! -> siana
