@@ -36,3 +36,7 @@ ep 8
 4:30 - brak TSu
 Dialogue: 8,0:15:55.58,0:15:59.02,Wistoria,,0,0,0,,Czyżby zwiódł cie swoimi akrobacjami? -> cię
 Dialogue: 8,0:17:33.03,0:17:38.32,Wistoria,,0,0,0,,Aby zapobiec upadku mojej rodziny,\N muszę osiągnąć znaczące sukcesy. -> upadkowi
+
+ep 9
+Dialogue: 8,0:04:59.27,0:05:04.07,Wistoria,,0,0,0,,Być może powinienem zacząć\N wątpić w twój osąd, Lianno. -> Lihanno
+Dialogue: 8,0:18:37.01,0:18:39.24,Wistoria,,0,0,0,,Wtedy chciałabym, abyś ponownie użył Wykrycia. -> chciałbym
