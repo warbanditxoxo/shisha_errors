@@ -1,3 +1,6 @@
 ep 3
 Dialogue: 8,0:04:17.11,0:04:20.20,Delicos,,0,0,0,,Nie ma ciebie mocnych, Dali. -> ciebie >>> na ciebie
 Dialogue: 8,0:12:31.36,0:12:34.27,Delicos,,0,0,0,,Kiedyś wkroczysz w fazę kokona. -> powinno być "kokonu"
+
+ep 4
+Dialogue: 8,0:12:12.71,0:12:16.59,Delicos,,0,0,0,,Nie możesz stosować przemocy słownej ani werbalnej. -> fizycznej ani werbalnej
