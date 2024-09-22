@@ -19,3 +19,6 @@ Dialogue: 8,0:20:52.90,0:20:55.90,Samobójca,,0,0,0,,{\an8}Przekażcie wiadomoś
 ep 7
 Dialogue: 8,0:01:33.77,0:01:39.52,Samobójca,,0,0,0,,Tak myślałam, że przynęta\N podziała na moje główne danie. -> myślałem
 Dialogue: 8,0:11:20.93,0:11:26.02,Samobójca,,0,0,0,,Im więcej dowiadywałem się o twojej przyszłości, \Ntym częściej myślałem sobie... -> powinno być "przeszłości"
+
+ep 9
+Dialogue: 8,0:11:16.44,0:11:22.66,Samobójca,,0,0,0,,Podróżuję, że stać się dzielnym wojownikiem, \Nktóry będzie zasługiwał na ten miecz. -> żeby
