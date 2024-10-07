@@ -4,3 +4,4 @@ Dialogue: 0,0:02:34.17,0:02:40.51,Pięcioraczki Film OP,,0,0,0,fx,{\fad(150,150)
 Dialogue: 1,0:02:34.17,0:02:40.51,Pięcioraczki Film OP,,0,0,0,fx,{\fad(150,150)\blur0.8\bord0\shad0.0001\1a&HFE&\3a&HFE&\4c&HFFFFFF&\4a&H00&\yshad0.0001\fscy120}Uczucia o których wcześniej nie miałam pojęcia -> przecinek przed "o których"
 Dialogue: 1,0:56:42.55,0:56:44.05,Znaki,,0,0,0,,{\blur1.3\fnKozuka Gothic Pr6N B PL\fs120\fscy150\c&H908265&\pos(1220.561,533.67)}Sala\N{\c&H726C58&}kółka\N{\c&H3D4C39&}tetralnego -> teatralnego
 Dialogue: 200,1:20:04.82,1:20:08.78,Pięcioraczki Film,Futaro,0,0,0,,To one mnie nauczyły, że miałam klapki na oczach. -> miałem
+Dialogue: 200,1:32:27.61,1:32:29.94,Pięcioraczki Film,Teacher,0,0,0,,Drugiej poprawki tez nie zaliczyłaś. -> też
