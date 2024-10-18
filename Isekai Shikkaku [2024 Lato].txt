@@ -29,3 +29,8 @@ Dialogue: 8,0:15:29.45,0:15:32.74,Samobójca,,0,0,0,,Znów się spotkamy, mistrz
 ep 11
 Dialogue: 8,0:08:24.48,0:08:28.23,Samobójca,,0,0,0,,ale umiejętności rzemieślniczego tego kraju\N są doprawdy niesamowite. -> rzemieślnicze
 Dialogue: 8,0:18:17.61,0:18:19.78,Samobójca - Myśli,,0,0,0,,Zawiodłem jako nauczyciel. -> nie powinno być kursywy, bo to nie myśli
+
+ep 12
+Dialogue: 8,0:13:55.54,0:14:00.75,Samobójca,,0,0,0,,Nie uda cię podołać czekającym cię próbom. -> nie uda ci się
+Dialogue: 0,0:15:38.27,0:15:40.52,Znaki,,0,0,0,,{\3a&H74&\blur2.4\1c&H47DDEB&\fnBrush Script MT PL\bord4\fad(334,1)\pos(392.276,675.491)}Wróżki bliźniaczki \N\h\h\hSolulu\h\h\h
+Dialogue: 0,0:15:38.27,0:15:40.52,Znaki,,0,0,0,,{\3a&H74&\blur2.4\1c&H47DDEB&\fnBrush Script MT PL\bord4\fad(334,1)\pos(1525.242,683.787)}Wróżki bliźniaczki \N\h\h\hSolulu\h\h\h -> Elulu i Solulu
