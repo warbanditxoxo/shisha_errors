@@ -4,3 +4,4 @@ Dialogue: 8,0:03:29.63,0:03:31.80,Yakuza,,0,0,0,,Akurat przez te twoje cholerny 
 
 ep 2
 Dialogue: 8,0:05:08.83,0:05:12.69,Yakuza,,0,0,0,,Już zarezerwowałam stolik dla nas\N na romantyczną kolację. -> zarezerwowałem
+Dialogue: 8,0:06:23.98,0:06:25.44,Yakuza,,0,0,0,,Może zjeść też moje. -> możesz
