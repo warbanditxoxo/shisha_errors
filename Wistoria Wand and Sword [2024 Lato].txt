@@ -52,3 +52,7 @@ Dialogue: 8,0:05:19.95,0:05:24.75,Wistoria,,0,0,0,,Okazałą się być wysoką e
 ep 11
 Dialogue: 8,0:03:21.69,0:03:24.09,Wistoria,,0,0,0,,Co taki bydlę tutaj robi? -> takie
 Dialogue: 8,0:13:33.65,0:13:36.94,Wistoria,,0,0,0,,Gogle elfi są zniszczone... -> Elfie
+
+ep 12
+Dialogue: 8,0:00:09.62,0:00:13.45,Wistoria - Alter,,0,0,0,,Iflamme Burdelyon! -> w poprzednim odcinku było Iflammus Bardelion
+Dialogue: 8,0:19:20.09,0:19:22.06,Wistoria,,0,0,0,,Podczas Wielkim Turnieju Magicznego -> Wielkiego
