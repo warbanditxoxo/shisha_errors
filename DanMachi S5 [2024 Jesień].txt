@@ -1,0 +1,2 @@
+ep 2
+Dialogue: 8,0:17:15.81,0:17:19.39,DanMachi V,,0,0,0,,Zanim pomyślę, że chciałbym cię\Npotrzymać za rękę, ty to już robisz! -> chciałabym
