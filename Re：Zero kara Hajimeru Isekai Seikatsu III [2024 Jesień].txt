@@ -1,9 +1,15 @@
 ep 1
+Dialogue: 15,0:17:57.77,0:18:01.94,Re: Zero III,,0,0,0,,Miasta jest pułapką? To brzmi trochę strasznie. -> Miasto
 Dialogue: 15,0:22:08.14,0:22:10.27,Re: Zero III,,0,0,0,,Magiczny kamień,którego pani szuka, -> brakuje spacji przed "którego"
 Dialogue: 15,0:25:26.26,0:25:29.59,Re: Zero III,,0,0,0,,to możemy zapytać kogoś o drogę -> kropki na końcu brakuje
 Dialogue: 15,0:31:29.45,0:31:33.83,Re: Zero III,,0,0,0,,Wtedy będę mógł zaśpiewać bohaterską opowieść\N  przekazywaną z pokolenia na pokolenie! -> mogła
 Dialogue: 15,0:40:43.13,0:40:45.55,Re: Zero III,,0,0,0,,Naprawdę dojrzałeś.
 Dialogue: 15,0:40:47.14,0:40:49.51,Re: Zero III,,0,0,0,,Morda tam! Nie prowokuj mnie w tym momencie! -> On to "Morda tam" mówi praktycznie zaraz po tej 1 linijce, ale lepiej jak sobie na to spojrzysz sam
+Dialogue: 15,0:44:20.35,0:44:24.23,Re: Zero III,,0,0,0,,Nie czuję w twoim głosie przekonania.\N Pewnie nawet nie wiesz, coś zmalował. -> co
 Dialogue: 15,0:56:48.39,0:56:51.68,Re: Zero III,,0,0,0,,byłby to w sekundę, gdybym go wezwała. -> tu
+Dialogue: 15,0:57:48.08,0:57:50.62,Re: Zero III,,0,0,0,,Zdaje się biega za Garfielem z obozu Emilii. -> Zdaje się, że
+Dialogue: 15,1:06:10.66,1:06:15.22,Re: Zero III,,0,0,0,,Nie pamięta panienka, jak się śmiała z niego do rozpuku? -> przecinek przed „panienka”
 Dialogue: 15,1:17:29.61,1:17:33.33,Re: Zero III,,0,0,0,,Wale nie muszę brać tego, co mi się podoba, ze sobą. -> wcale XD
+Dialogue: 15,1:18:12.94,1:18:16.34,Re: Zero III,,0,0,0,,Prezentacja tego memu, gdzie mogę\N odpowiedzieć tylko tak lub tak? -> memu? Miało być menu czy co?
 Dialogue: 15,1:20:03.87,1:20:07.58,Re: Zero III,,0,0,0,,Jednak zabieram was cenny czas, -> wasz
+Dialogue: 15,1:21:57.83,1:22:02.16,Re: Zero III,,0,0,0,,Jestem wdzięczna za każdym razem, gdy tego doświadczam. -> zdanie nie powinno być zakończone, a być przecinek i dalej kontynuowane
