@@ -1,0 +1,2 @@
+ep 1
+Dialogue: 8,0:07:16.15,0:07:18.52,Nageki - myśli,,0,0,0,,Widziałem, że lepiej nie przychodzić. -> Wiedziałem
