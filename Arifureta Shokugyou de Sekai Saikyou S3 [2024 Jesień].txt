@@ -1,0 +1,4 @@
+ep 1
+Dialogue: 8,0:14:44.02,0:14:46.53,Arifureta,,0,0,0,,{\an8}Jam Yaozelius Upiorny!
+Dialogue: 0,0:14:43.61,0:14:49.04,Znaki,,0,0,0,,{\fad(100,0)\blur8\fnCloisterBlack L2\fs120\c&H171815&\pos(384.97,693.04)}Jaozelius Upiorny -> no to Yao czy Jao?
+Dialogue: 8,0:15:20.48,0:15:25.57,Arifureta,,0,0,0,,Chwileczkę, dlaczego z góry zakładacie,\N że chce mieć swój własny pseudonim? -> chcę
