@@ -39,6 +39,7 @@ Dialogue: 8,0:17:33.03,0:17:38.32,Wistoria,,0,0,0,,Aby zapobiec upadku mojej rod
 
 ep 9
 Dialogue: 8,0:04:59.27,0:05:04.07,Wistoria,,0,0,0,,Być może powinienem zacząć\N wątpić w twój osąd, Lianno. -> Lihanno
+Dialogue: 8,0:09:58.73,0:10:01.79,Wistoria,,0,0,0,,Wyrznąłeś wszystkich tam na górze? -> wyrżnąłeś
 Dialogue: 8,0:18:37.01,0:18:39.24,Wistoria,,0,0,0,,Wtedy chciałabym, abyś ponownie użył Wykrycia. -> chciałbym
 
 ep 10
