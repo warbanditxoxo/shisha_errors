@@ -25,3 +25,7 @@ Dialogue: 8,0:11:16.44,0:11:22.66,Samobójca,,0,0,0,,Podróżuję, że stać si�
 
 ep 10
 Dialogue: 8,0:15:29.45,0:15:32.74,Samobójca,,0,0,0,,Znów się spotkamy, mistrzu. -> spotykamy
+
+ep 11
+Dialogue: 8,0:08:24.48,0:08:28.23,Samobójca,,0,0,0,,ale umiejętności rzemieślniczego tego kraju\N są doprawdy niesamowite. -> rzemieślnicze
+Dialogue: 8,0:18:17.61,0:18:19.78,Samobójca - Myśli,,0,0,0,,Zawiodłem jako nauczyciel. -> nie powinno być kursywy, bo to nie myśli
