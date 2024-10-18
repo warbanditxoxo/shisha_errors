@@ -1,2 +1,5 @@
 ep 1
 Dialogue: 8,0:07:16.15,0:07:18.52,Nageki - myśli,,0,0,0,,Widziałem, że lepiej nie przychodzić. -> Wiedziałem
+
+ep 3
+Dialogue: 0,0:05:59.06,0:06:02.35,Nageki,,0,0,0,,nikt nie będzie robił za tarczę\N ani nikogo nie poświecimy. -> komu świecisz? mi czy sobie ^^
