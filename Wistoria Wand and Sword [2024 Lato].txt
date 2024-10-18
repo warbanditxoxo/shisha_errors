@@ -41,8 +41,14 @@ ep 9
 Dialogue: 8,0:04:59.27,0:05:04.07,Wistoria,,0,0,0,,Być może powinienem zacząć\N wątpić w twój osąd, Lianno. -> Lihanno
 Dialogue: 8,0:09:58.73,0:10:01.79,Wistoria,,0,0,0,,Wyrznąłeś wszystkich tam na górze? -> wyrżnąłeś
 Dialogue: 8,0:18:37.01,0:18:39.24,Wistoria,,0,0,0,,Wtedy chciałabym, abyś ponownie użył Wykrycia. -> chciałbym
+Dialogue: 8,0:16:14.55,0:16:16.96,Wistoria,,0,0,0,,Chce zacząć od odnalezienia Colette i reszty. -> chcę
 
 ep 10
+Dialogue: 8,0:02:55.86,0:02:57.96,Wistoria,,0,0,0,,A wszystko przez moją magie iluzji. -> magię
 Dialogue: 8,0:04:41.93,0:04:46.68,Wistoria - Myśli,,0,0,0,,To nie jest przypadkiem Elleaf Canan – Elnore Ljos Alf? -> Ellenor
 Dialogue: 8,0:04:47.01,0:04:50.93,Wistoria,,0,0,0,,Dorastałem wraz z Elnore i bardzo ją ceniłem. -> Ellenor
 Dialogue: 8,0:05:19.95,0:05:24.75,Wistoria,,0,0,0,,Okazałą się być wysoką elfką na tyle potężną,\N by stworzyć królewskie lasy. -> Okazała
+
+ep 11
+Dialogue: 8,0:03:21.69,0:03:24.09,Wistoria,,0,0,0,,Co taki bydlę tutaj robi? -> takie
+Dialogue: 8,0:13:33.65,0:13:36.94,Wistoria,,0,0,0,,Gogle elfi są zniszczone... -> Elfie
