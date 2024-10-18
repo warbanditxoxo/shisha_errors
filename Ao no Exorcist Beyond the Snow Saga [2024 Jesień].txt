@@ -1,0 +1,2 @@
+ep 1
+Dialogue: 8,0:19:36.78,0:19:38.95,Egzorcysta,,0,0,0,,Nie tylko dobrze sucha, ale wzrok też ma niezły. -> literowka na słucha
