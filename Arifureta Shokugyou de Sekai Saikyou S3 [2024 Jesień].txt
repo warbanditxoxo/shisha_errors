@@ -1,4 +1,6 @@
 ep 1
-Dialogue: 8,0:14:44.02,0:14:46.53,Arifureta,,0,0,0,,{\an8}Jam Yaozelius Upiorny!
-Dialogue: 0,0:14:43.61,0:14:49.04,Znaki,,0,0,0,,{\fad(100,0)\blur8\fnCloisterBlack L2\fs120\c&H171815&\pos(384.97,693.04)}Jaozelius Upiorny -> no to Yao czy Jao?
+Dialogue: 8,0:07:29.51,0:07:32.47,Arifureta,,0,0,0,,Jak również każdą inną istotę na tym świcie! -> świecie
+Dialogue: 0,0:14:43.61,0:14:49.04,Znaki,,0,0,0,,{\fad(100,0)\blur8\fnCloisterBlack L2\fs120\c&H171815&\pos(384.97,693.04)}Jaozelius Upiorny
+Dialogue: 8,0:14:44.02,0:14:46.53,Arifureta,,0,0,0,,{\an8}Jam Yaozelius Upiorny! -> no to Yao czy Jao?
+Dialogue: 8,0:15:17.35,0:15:20.48,Arifureta,,0,0,0,,Oponuję za Rondo Czerwonej Śmierci! -> oponować to sprzeciwiać się, nie można "oponować za"
 Dialogue: 8,0:15:20.48,0:15:25.57,Arifureta,,0,0,0,,Chwileczkę, dlaczego z góry zakładacie,\N że chce mieć swój własny pseudonim? -> chcę
