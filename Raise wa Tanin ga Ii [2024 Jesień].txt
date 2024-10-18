@@ -1,3 +1,6 @@
 ep 1
 Dialogue: 8,0:03:15.39,0:03:20.26,Yakuza,,0,0,0,,Tak ci się śpieszno do zostania starą lambadziarą? -> to "się" jest chyba niepotrzebne
 Dialogue: 8,0:03:29.63,0:03:31.80,Yakuza,,0,0,0,,Akurat przez te twoje cholerny geny -> cholerne
+
+ep 2
+Dialogue: 8,0:05:08.83,0:05:12.69,Yakuza,,0,0,0,,Już zarezerwowałam stolik dla nas\N na romantyczną kolację. -> zarezerwowałem
